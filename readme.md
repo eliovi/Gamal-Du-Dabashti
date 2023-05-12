@@ -13,4 +13,6 @@ This is an instruction finetuned version of LLaMA using a translated instruction
 
 [Alpaca Lora](https://github.com/tloen/alpaca-lora)
 
+[Cleaned Alpaca Dataset](https://github.com/gururise/AlpacaDataCleaned)
+
 [Hugging Face](https://huggingface.co/)
